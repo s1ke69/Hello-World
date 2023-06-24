@@ -4,3 +4,7 @@ while i<10 :
     print(a)
     a,b = b, a+b
     i=i+1
+
+
+
+print("this is known as fibonacci series")
