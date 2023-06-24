@@ -5,6 +5,6 @@ while i<10 :
     a,b = b, a+b
     i=i+1
 
-
+print("Nw one")
 
 print("this is known as fibonacci series")
